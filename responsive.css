@@ -1,0 +1,104 @@
+
+
+@media only screen and (max-width: 700px) {
+   
+    .video-container video{
+        position: absolute;
+        height: 15rem;
+        width: 29rem;
+    }
+    .event-section{
+        flex-wrap: wrap;
+        margin-top: -20rem;
+    }
+    .event-section .event-box{
+        flex-wrap: wrap;
+       margin-top: 21rem;
+    }
+    
+    .box-i img{
+        height: 18rem;
+    width: 16rem;
+    position: relative;
+    left: 9.6rem;
+    border-radius: 12px;
+    box-shadow: 0px 0px 3px #fefeff;
+    }
+    .event-name{
+        position: relative;
+    left: 1rem;
+    font-size: 1.5rem;
+    color: #880dfb;
+    }
+    .event-details{
+        margin-left: 4rem;
+        width: 18rem;
+        font-size: 1rem;
+    }
+    .register-button button{
+        margin-left: 4.5rem;
+    }
+    .next-box img{
+        position: relative;
+        left: -18.5rem;
+        height: 13rem;
+        width: 21rem;
+        top: 2rem;
+      
+    }
+
+
+    .next-box .box-i-next img{
+        left: -22rem;
+    width: 20rem;
+    position: relative;
+    height: 15rem ;
+    top: -14rem;
+   
+    }
+    .next-name{
+        position: relative;
+        left: -29rem;
+        top: -14rem;
+    }
+    .event-details1 {
+        margin-left: -26.6rem;
+        width: 18rem;
+        font-size: 1rem;
+        margin-top: -12rem;
+    }
+    .register-button1 button{
+        margin-left: -27.6rem;
+    }
+    .about-illuminati img{
+        width: 21rem;
+        position: absolute;
+        top: -27rem;
+        left: 1rem;
+        box-shadow: 0px 0px 4px #fcfcfc;
+    }
+    .program-title{
+        width: 30rem;
+        position: relative;
+        top: 8rem;
+        left: -5rem;
+    }
+    .we-are-back{
+        width: 16rem;
+        position: relative;
+        left: 2rem;
+        top: -18rem;
+    }
+    .program-details{
+        width: 16rem;
+        position: relative;
+        left: 2rem;
+        top: -18rem;
+    }
+    .joint-with{
+        width: 16rem;
+    position: relative;
+    left: 2rem;
+    top: -18rem;
+    }
+  }

@@ -1,0 +1,201 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body{
+     background-color:#100f13;
+    height: 35rem;
+}
+
+
+.event-section{
+    position: relative;
+    width: 100%;
+    top: 0%;
+    display: flex;
+    justify-content: center;
+    margin-top: 8rem;
+}
+.event-box{
+    /* background-color: #38383d; */
+    height: 30rem;
+    width: 23rem;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: center;
+    margin: 2% 4%;
+    /* z-index: -1; */
+}
+.event-name{
+    color: white;
+    font-size: 2rem;
+    font-family: sans-serif;
+    font-weight: 700;
+    position: relative;
+    margin-top: -5rem;
+    width: 32rem;
+    display: flex;
+    justify-content: center;
+}
+.event-box1{
+    /* background-color: #38383d; */
+    height: 30rem;
+    width: 53rem;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: center;
+    margin: 2% 4%;
+    /* z-index: -1; */
+}
+
+.about-program{
+    position: relative;
+    top: 60%;
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: row-reverse;
+    z-index: -1;
+    height: 16rem;
+    width: 100%;
+}
+.about-illuminati{
+    /* background-color: #38383d; */
+    height: 16rem;
+    width: 33rem;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: center;
+    margin: 8% 4%;
+}
+.program-title{
+    position: relative;
+    top: 11rem;
+    width: 50%;
+    color: white;
+}
+.we-are-back{
+    color: white;
+    font-size: 2rem;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+
+
+
+
+
+.event-box img{
+    width: 24rem;
+    margin-top: 2.7rem;
+    border-radius: 1rem;
+    position: relative;
+    left: 4.5rem;
+    height: 30rem;
+}
+
+.about-illuminati img{
+    width: 35rem;
+    border-radius: 1rem;
+    position: relative;
+}
+/* .event-box :hover{
+    transition: all 0.3s ease-in;
+    transform: scale(1.01);
+    transform-origin: bottom;
+} */
+.box-i :hover{
+    transition: all 0.4s ease-in-out;
+    transform: scale(1.03);
+    transform-origin: bottom;
+  
+}
+#rangoliname{
+    color: white;
+    font-size: 2rem;
+    font-family: sans-serif;
+    font-weight: 700;
+    position: relative;
+    width: 32rem;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    top: -5rem;
+}
+ .event-details{
+    color: white;
+    justify-content: center;
+    align-items: center;
+    width: 23rem;
+    position: relative;
+    left: 5rem;
+    font-size: 1.1rem;
+    margin-top: 2rem;
+    font-family: sans-serif;
+    
+} 
+.event-details1{
+
+    color: white;
+    justify-content: center;
+    align-items: center;
+    width: 54rem;
+    position: relative;
+    left: 7rem;
+    font-size: 1.1rem;
+    margin-top: 2rem;
+    font-family: sans-serif;
+}
+.det1{
+    margin: 10px;
+}
+.register-button button{
+    font-size: 1.1rem;
+    background-color: #c80047;
+    width: 10rem;
+    height: 2.3rem;
+    color: white;
+    border-radius: 1rem;
+    border: transparent;
+    font-family: revert-layer;
+    position: relative;
+    left: 5rem;
+    margin-top: 1rem;
+}
+
+.next-box{
+    margin-top: 19rem;
+    display: flex;
+    position: relative;
+    left: 27rem;
+}
+.next-box .box-i-next img{
+    width: 52rem;
+    position: relative;
+    left: 7rem;
+}
+ .next-box .last-event-details{
+    width: 48rem;
+}
+
+.developer-section{
+    height: 19rem;
+    width: 100%;
+    background-color:#100f13;
+
+}
+
+.rbutton button{
+    /* font-size: 1.1rem;
+    background-color: #c80047;
+    width: 10rem;
+    height: 2.3rem;
+    color: white;
+    border-radius: 1rem;
+    border: transparent;
+    font-family: revert-layer;
+    position: relative; */
+    left: 7.6rem;
+    /* margin-top: 1rem; */
+}
